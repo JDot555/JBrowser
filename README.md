@@ -1,4 +1,4 @@
-a Browser made by me not the full version may have bugs in it but they will be fixed soon.
+JDot Browser or JDB in short is a browser made by me not the full version this is may have many bugs in it but they will be fixed soon.
 I will try make it with webGL to this may looks like a windows xp browser but it's not this is only a proto type so don't get your hopes high(jk).
 
 important notes:
