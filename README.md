@@ -1,14 +1,20 @@
-JDot Browser or JDB in short is a browser made by me not the full version this is may have many bugs in it but they will be fixed soon.
-I will try make it with webGL to this may looks like a windows xp browser but it's not this is only a proto type so don't get your hopes high(jk).
+# JDot Browser (JDB)
 
-important notes:
+JDot Browser, or JDB for short, is a browser created by me. It’s not the full version and may contain many bugs, but they will be fixed soon. I plan to make it with WebGL in the future, it may look like a Windows XP browser, but don't be fooled, This is just a prototype, so don't get your hopes too high (just kidding).
 
-1) Don't try to open multiple tabs at once as it may crash idk if it will or not but it should.
+## Important Notes:
 
-2) this does not support modren javascript or css so some buttons or styles woun't work.
+1. **Multiple Tabs**:  
+   Don’t try to open multiple tabs at once, as it may crash. I’m not sure if it will, but it should.
 
-3) don't try to play games in it.
+2. **Limited JavaScript and CSS Support**:  
+   This browser doesn’t support modern JavaScript or CSS, so some buttons or styles might not work as expected.
 
-4) if you close a tab while watching a video on youtube or anyother place and close the tab the audio won't stop playing.
- 
-5) no need to install JDK it will work without it
+3. **Games**:  
+   Don’t try to play games in it. The browser is not optimized for that.
+
+4. **Audio Issue**:  
+   If you close a tab while watching a video on YouTube or any other site, the audio won’t stop playing even after the tab is closed.
+
+5. **No JDK Required**:  
+   There’s no need to install JDK. The browser will work without it.
